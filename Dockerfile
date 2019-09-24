@@ -1,5 +1,2 @@
-class Hello{  
-public static void main(String[] args){  
-System.out.println(&quot;This is java app \n by using Docker&quot;);  
-}  
-}
+FROM busybox:latest
+MAINTAINER Ram (ram@gmail.com)
